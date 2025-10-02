@@ -1,0 +1,17 @@
+[
+    {
+        "id": 5,
+        "nome": "guilherme",
+        "email": "guilherme@gmail.com"
+    },
+    {
+        "id": 6,
+        "nome": "Rodrigo Soares Barreto ",
+        "email": "RSoaresB@gmail.com"
+    },
+    {
+        "id": 3,
+        "nome": "Julia Barreto",
+        "email": "Jbarreto@gmail.com"
+    }
+]
